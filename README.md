@@ -1,7 +1,8 @@
 Hallo! My name is Jan 👋
 ===========================================================================================================================
 
-I am a Berlin-based software developer who enjoys designing and developing web applications, desktop software and Android apps. 
+I am a Berlin-based software developer who enjoys designing and developing web applications, desktop software and
+Android apps.
 Below you will find an overview of selected projects.
 
 ------------
@@ -25,7 +26,7 @@ In detail, the following is used:
 * <b>Backend</b>: Go with Gin REST API, gRPC API for microservice communication, PostgreSQL, SPARQL API for data
   retrieval
 * <b>DevOps/Misc</b>: Docker, AWS EC2, Route53, Load Balancer, RDS
-  
+
 <img alt="landing page" src="/assets/judict1.png">
 
 | <img alt="landing page" src="/assets/judict4.png"> | <img alt="toc page" src="/assets/judict2.png"> | <img alt="article page" src="/assets/judict3.png"> |
@@ -54,6 +55,22 @@ In detail, the following is used:
 
 ----
 
+### <a href="https://ultrasmashed.com/">UltraSmashed</a> ChatGPT Wrapper
+
+Building a marketing tool based on the ChatGPT API. The project consists of a frontend in Next.js and Radix UI and an
+admin area based on Refine. The data produced by the ChatGPT api is processed and visualized in many different ways,
+there is a live chat functionality and much more AI related features.
+
+In detail, the following is used:
+
+* <b>User Area</b>: Next.js, TailwindCSS, RadixUI, Lucid
+* <b>Admin Area</b>: Next.js, Refine.dev, ChakraUI, Supabase
+
+| <img alt="landing page" src="/assets/ai3.png"> | <img alt="toc page" src="/assets/ai1.png"> | <img alt="toc page" src="/assets/ai2.png"> |
+|------------------------------------------------|--------------------------------------------|--------------------------------------------|
+
+----
+
 ### Multiple Freelance projects
 
 Several small to medium-sized freelance projects were realized in the field of web development using Next.js and
@@ -65,6 +82,7 @@ One open source project is for example: <a href="qblitz.de">qblitz.de</a>
 |----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
 ------
+
 ### Android Apps
 
 Over a period of 4 years, several lifestyle-based Android apps were developed using Java and later Kotlin. The apps
@@ -82,7 +100,9 @@ the years. Today, most of the apps are outdated and cannot be used anymore.
 | <img alt="landing page" src="/assets/picmine1.png"> | <img alt="toc page" src="/assets/picmine2.png"> | <img alt="article page" src="/assets/picmine3.png"> |
 |-----------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|
 | <img alt="landing page" src="/assets/wss1.png">     | <img alt="toc page" src="/assets/core1.png">    | <img alt="article page" src="/assets/swag1.png">    |
+
 ------
+
 ### <a href="https://github.com/Uni2K/RootReader">RootReader & RootAnalysis</a>
 
 C++ and Bash CLI data analysis based on the CERN ROOT framework. The created software suite is able to use advanced
