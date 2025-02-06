@@ -32,25 +32,36 @@ Frontend: Java, JavaFX, Spring, Maven, JUnit
 Backend:  Node.js, MySQL, Express.js, LDAP, IMAPS, SMTPS Server
 DevOps/Misc: Fully automated test pipelines, Update-Bootstrapping routine, cross-platforming on Windows, Linux & MacOS
 
+| <img alt="landing page" src="/assets/beA1.png"> | <img alt="toc page" src="/assets/beA2.png"> |
+|-------------------------------------------------|---------------------------------------------|
+
 ----
 
 ### Multiple Freelance projects
 Several small to medium-sized freelance projects were realized in the field of web development using Next.js and relation databases. Since many of those are closed-source, they are not be named here.
 
-One open source project is: qblitz.de
+One open source project is: <a href="qblitz.de">qblitz.de</a>
+
+| <img alt="landing page" src="/assets/qblitz1.png"> | <img alt="toc page" src="/assets/qblitz2.png"> | <img alt="article page" src="/assets/qblitz3.png"> |
+|----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
 ### Android Apps
 
 Over a period of 4 years, several lifestyle-based Android apps were developed using Java and later Kotlin. The apps reached a total of more than 5 million individual users and were provided with regular security and content updates over the years. In the meantime, only "PicMine" is still available via the Google Play Store.
-##### PicMine - Profilbilder erstellen Bilder bearbeiten APK für Android
-##### Status Sprüche & Zitate to go
-##### Profile pictures for WhatsApp
-##### Wallpapers for chats
+* PicMine - Profilbilder erstellen Bilder bearbeiten APK für Android
+* Status Sprüche & Zitate to go
+* Profile pictures for WhatsApp
+* Wallpapers for chats
+
+| <img alt="landing page" src="/assets/picmine1.png"> | <img alt="toc page" src="/assets/picmine2.png"> | <img alt="article page" src="/assets/picmine3.png"> |
+|-----------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|
+| <img alt="landing page" src="/assets/wss1.png">     | <img alt="toc page" src="/assets/core1.png">    | <img alt="article page" src="/assets/swag1.png">    |
+
 
 ### RootReader & RootAnalysis
-C++ and Bash data analysis based on the CERN ROOT framework. The created software suite is able to use advanced integration, multi-threading, curve-fitting and IO reading to process terabytes of raw binary data into readable data
+C++ and Bash CLI data analysis based on the CERN ROOT framework. The created software suite is able to use advanced integration, multi-threading, curve-fitting and IO reading to process terabytes of raw binary data into readable data
 More details can be found here.
-
+<img alt="landing page" src="/assets/root1.png">
 
 ### Skills
 <p align="left">
