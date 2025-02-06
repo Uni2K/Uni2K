@@ -64,6 +64,7 @@ One open source project is for example: <a href="qblitz.de">qblitz.de</a>
 | <img alt="landing page" src="/assets/qblitz1.png"> | <img alt="toc page" src="/assets/qblitz2.png"> | <img alt="article page" src="/assets/qblitz3.png"> |
 |----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
+------
 ### Android Apps
 
 Over a period of 4 years, several lifestyle-based Android apps were developed using Java and later Kotlin. The apps
@@ -81,7 +82,7 @@ the years. Today, most of the apps are outdated and cannot be used anymore.
 | <img alt="landing page" src="/assets/picmine1.png"> | <img alt="toc page" src="/assets/picmine2.png"> | <img alt="article page" src="/assets/picmine3.png"> |
 |-----------------------------------------------------|-------------------------------------------------|-----------------------------------------------------|
 | <img alt="landing page" src="/assets/wss1.png">     | <img alt="toc page" src="/assets/core1.png">    | <img alt="article page" src="/assets/swag1.png">    |
-
+------
 ### <a href="https://github.com/Uni2K/RootReader">RootReader & RootAnalysis</a>
 
 C++ and Bash CLI data analysis based on the CERN ROOT framework. The created software suite is able to use advanced
