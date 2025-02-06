@@ -5,7 +5,7 @@ I am a full stack developer who is currently focused on
 
 ------------
 ## Projects
-### judict.eu
+### <a href="judict.eu">judict.eu</a>
 Developed over a period of 4 years, judict.eu is a research tool for European financial supervisory law. The technical framework is based on Next.js 15 in the frontend and several Go servers hosted on AWS, which together form a microservice architecture.
 Another aspect is the daily retrieval of legal documents, which is realized via an independent Go server. The raw data is obtained via a large number of web scrapers and then evaluated and condensed using natural language processing (NLP) algorithms.
 The entire frontend design, illustrations, compositions and layouts have been made exclusively by me using FIGMA, Illustrator and PS.
@@ -32,15 +32,15 @@ Frontend: Java, JavaFX, Spring, Maven, JUnit
 Backend:  Node.js, MySQL, Express.js, LDAP, IMAPS, SMTPS Server
 DevOps/Misc: Fully automated test pipelines, Update-Bootstrapping routine, cross-platforming on Windows, Linux & MacOS
 
-| <img alt="landing page" src="/assets/beA1.png"> | <img alt="toc page" src="/assets/beA2.png"> |
-|-------------------------------------------------|---------------------------------------------|
+| <img alt="landing page" src="/assets/beA1.png" width="50%"> | <img alt="toc page" src="/assets/beA2.png" width="50%"> |
+|-------------------------------------------------------------|---------------------------------------------------------|
 
 ----
 
 ### Multiple Freelance projects
 Several small to medium-sized freelance projects were realized in the field of web development using Next.js and relation databases. Since many of those are closed-source, they are not be named here.
 
-One open source project is: <a href="qblitz.de">qblitz.de</a>
+One open source project is for example: <a href="qblitz.de">qblitz.de</a>
 
 | <img alt="landing page" src="/assets/qblitz1.png"> | <img alt="toc page" src="/assets/qblitz2.png"> | <img alt="article page" src="/assets/qblitz3.png"> |
 |----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
