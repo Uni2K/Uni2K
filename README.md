@@ -25,8 +25,10 @@ In detail, the following is used:
 * <b>Backend</b>: Go with Gin REST API, gRPC API for microservice communication, PostgreSQL, SPARQL API for data
   retrieval
 * <b>DevOps/Misc</b>: Docker, AWS EC2, Route53, Load Balancer, RDS
+  
+<img alt="landing page" src="/assets/judict1.png">
 
-| <img alt="landing page" src="/assets/judict1.png"> | <img alt="toc page" src="/assets/judict2.png"> | <img alt="article page" src="/assets/judict3.png"> |
+| <img alt="landing page" src="/assets/judict4.png"> | <img alt="toc page" src="/assets/judict2.png"> | <img alt="article page" src="/assets/judict3.png"> |
 |----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
 ------
