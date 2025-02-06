@@ -32,8 +32,8 @@ Frontend: Java, JavaFX, Spring, Maven, JUnit
 Backend:  Node.js, MySQL, Express.js, LDAP, IMAPS, SMTPS Server
 DevOps/Misc: Fully automated test pipelines, Update-Bootstrapping routine, cross-platforming on Windows, Linux & MacOS
 
-| <img alt="landing page" src="/assets/beA1.png" width="50%"> | <img alt="toc page" src="/assets/beA2.png" width="50%"> |
-|-------------------------------------------------------------|---------------------------------------------------------|
+| <img alt="landing page" src="/assets/beA1.png"> | <img alt="toc page" src="/assets/beA2.png"> | <img alt="toc page" src="/assets/beA3.png"> |
+|------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|
 
 ----
 
@@ -58,9 +58,8 @@ Over a period of 4 years, several lifestyle-based Android apps were developed us
 | <img alt="landing page" src="/assets/wss1.png">     | <img alt="toc page" src="/assets/core1.png">    | <img alt="article page" src="/assets/swag1.png">    |
 
 
-### RootReader & RootAnalysis
-C++ and Bash CLI data analysis based on the CERN ROOT framework. The created software suite is able to use advanced integration, multi-threading, curve-fitting and IO reading to process terabytes of raw binary data into readable data
-More details can be found here.
+### <a href="https://github.com/Uni2K/RootReader">RootReader & RootAnalysis</a>
+C++ and Bash CLI data analysis based on the CERN ROOT framework. The created software suite is able to use advanced integration, multi-threading, curve-fitting and IO reading to process terabytes of raw binary data into readable data.
 <img alt="landing page" src="/assets/root1.png">
 
 ### Skills
