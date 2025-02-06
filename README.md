@@ -1,4 +1,4 @@
-Hallo! My name is Jan,
+Hallo! My name is Jan 👋
 ===========================================================================================================================
 
 I am a Berlin based software developer who enjoys designing and developing web applications, desktop software and Android apps. 
