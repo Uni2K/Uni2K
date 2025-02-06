@@ -14,10 +14,11 @@ In detail, the following is used
 Frontend: Next.js 15 with TS + TailwindCSS, JUnit, Cypress, PM2
 Backend: Go with Gin REST API, gRPC API for microservice communication, PostgreSQL, SPARQL API for data retrieval
 DevOps/Misc: Docker, AWS EC2, Route53, Load Balancer, RDS
- 
-<img alt="landing page" src="/assets/judict1.png" width="30%">
-<img alt="toc page" src="/assets/judict2.png" width="30%">
-<img alt="article page" src="/assets/judict3.png" width="30%">
+
+
+
+| <img alt="landing page" src="/assets/judict1.png"> | <img alt="toc page" src="/assets/judict2.png"> | <img alt="article page" src="/assets/judict3.png"> |
+|----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
 
 ------
