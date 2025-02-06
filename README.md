@@ -1,7 +1,7 @@
 Hallo! My name is Jan 👋
 ===========================================================================================================================
 
-I am a Berlin based software developer who enjoys designing and developing web applications, desktop software and Android apps. 
+I am a Berlin-based software developer who enjoys designing and developing web applications, desktop software and Android apps. 
 Below you will find an overview of selected projects.
 
 ------------
@@ -11,17 +11,17 @@ Below you will find an overview of selected projects.
 ### <a href="judict.eu">judict.eu</a>
 
 Developed over a period of 4 years, judict.eu is a research tool for European financial supervisory law. The technical
-framework is based on Next.js 15 in the frontend and several Go servers hosted on AWS, which together form a
+framework is based on Next.js in the frontend and several Go servers hosted on AWS, which together form a
 microservice architecture.
 Another aspect is the daily retrieval of legal documents, which is realized via an independent Go server. The raw data
 is obtained via a large number of web scrapers and then evaluated and condensed using natural language processing (NLP)
 algorithms.
-The entire frontend design, illustrations, compositions and layouts have been made exclusively by me using FIGMA,
-Illustrator and PS.
+The entire frontend design, illustrations, compositions and layouts have been made exclusively by me using Figma,
+Illustrator and Photoshop.
 
 In detail, the following is used:
 
-* <b>Frontend</b>: Next.js 15 with TS + TailwindCSS, JUnit, Cypress, PM2
+* <b>Frontend</b>: Next.js 15 with TS + TailwindCSS, Jest, Cypress, PM2
 * <b>Backend</b>: Go with Gin REST API, gRPC API for microservice communication, PostgreSQL, SPARQL API for data
   retrieval
 * <b>DevOps/Misc</b>: Docker, AWS EC2, Route53, Load Balancer, RDS
@@ -46,7 +46,7 @@ In detail, the following is used:
 
 * <b>Frontend</b>: Java, JavaFX, Spring, Maven, JUnit
 * <b>Backend</b>:  Node.js, MySQL, Express.js, LDAP, IMAPS, SMTPS Server
-* <b>DevOps/Misc</b>: Fully automated test pipelines, Update-Bootstrapping routine, cross-platforming on Windows,
+* <b>DevOps/Misc</b>: Fully automated test pipelines, Update-Bootstrapping routine, cross-platform support on Windows,
   Linux & MacOS
 
 | <img alt="landing page" src="/assets/beA1.png"> | <img alt="toc page" src="/assets/beA2.png"> | <img alt="toc page" src="/assets/beA3.png"> |
@@ -57,7 +57,7 @@ In detail, the following is used:
 ### Multiple Freelance projects
 
 Several small to medium-sized freelance projects were realized in the field of web development using Next.js and
-relation databases. Since many of those are closed-source, they are not be named here.
+relational databases. Since many of those are closed-source, they are not be named here.
 
 One open source project is for example: <a href="qblitz.de">qblitz.de</a>
 
