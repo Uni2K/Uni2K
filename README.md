@@ -71,6 +71,23 @@ In detail, the following is used:
 
 ----
 
+### Dynamic Polling Android App
+
+An extensive and ambitious project to build a social media app that works on a polling basis. The project was designed
+as a
+native Android app with a Node.js backend running on AWS and multiple NoSQL databases.
+In detail, the following is used:
+
+* <b>Frontend</b>: Java, Retrofit2, Picasso, Lottie
+* <b>Backend</b>: Node.js, Express.js, Mongoose, Redis
+* <b>DevOps/General</b>: Gradle, MongoDB
+
+| <img alt="landing page" src="/assets/dpa1.png"> | <img alt="toc page" src="/assets/dpa2.png"> | <img alt="article page" src="/assets/dpa3.png"> |
+|-------------------------------------------------|---------------------------------------------|-------------------------------------------------|
+| <img alt="landing page" src="/assets/dpa4.png"> | <img alt="toc page" src="/assets/dpa5.png"> | <img alt="article page" src="/assets/dpa6.png"> |
+
+----
+
 ### Multiple Freelance projects
 
 Several small to medium-sized freelance projects were realized in the field of web development using Next.js and
