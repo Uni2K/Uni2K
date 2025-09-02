@@ -32,6 +32,8 @@ In detail, the following is used:
 | <img alt="landing page" src="/assets/judict4.png"> | <img alt="toc page" src="/assets/judict2.png"> | <img alt="article page" src="/assets/judict3.png"> |
 |----------------------------------------------------|------------------------------------------------|----------------------------------------------------|
 
+*<small>even the most well crafted product fails if micro managers gain the upper hand</small>*
+
 ------
 
 ### beA-to-email
